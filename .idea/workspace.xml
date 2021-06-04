@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae06ada4-712b-4d15-be8e-84811f6ffb71" name="Default Changelist" comment="Adding .gitignore">
+    <list default="true" id="ae06ada4-712b-4d15-be8e-84811f6ffb71" name="Default Changelist" comment="changes for ./public/index.php">
       <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +67,7 @@
       <workItem from="1622836936465" duration="426000" />
       <workItem from="1622837365656" duration="236000" />
       <workItem from="1622837621461" duration="106000" />
-      <workItem from="1622837728447" duration="300000" />
+      <workItem from="1622837728447" duration="390000" />
     </task>
     <task id="LOCAL-00001" summary="Adding .gitignore">
       <created>1622837534456</created>
@@ -76,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622837534456</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="changes for ./public/index.php">
+      <created>1622838066641</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622838066641</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,7 +104,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;gitignore again&quot;" />
     <MESSAGE value="Adding .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding .gitignore" />
+    <MESSAGE value="changes for ./public/index.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes for ./public/index.php" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1102" y="300" key="#Notifications" timestamp="1622837174680">
@@ -108,9 +116,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="997" y="192" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1622837725330" />
-    <state x="1026" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1622837541935">
+    <state x="580" y="352" width="389" height="264" key="MultipleFileMergeDialog" timestamp="1622838082476">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1026" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1622837541935" />
+    <state x="580" y="352" width="389" height="264" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622838082476" />
+    <state x="1026" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1622838074400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1026" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1622838074400" />
   </component>
 </project>
