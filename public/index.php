@@ -6,3 +6,4 @@ try{
     echo $e->getMessage();
 }
 phpinfo();
+$stashTest = 'Some text'';'
