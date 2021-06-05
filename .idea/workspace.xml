@@ -19,7 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae06ada4-712b-4d15-be8e-84811f6ffb71" name="Default Changelist" comment="changes for ./public/index.php">
+    <list default="true" id="ae06ada4-712b-4d15-be8e-84811f6ffb71" name="Default Changelist" comment="Adding .gitignore">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +69,7 @@
       <workItem from="1622837365656" duration="236000" />
       <workItem from="1622837621461" duration="106000" />
       <workItem from="1622837728447" duration="390000" />
+      <workItem from="1622925265421" duration="151000" />
     </task>
     <task id="LOCAL-00001" summary="Adding .gitignore">
       <created>1622837534456</created>
@@ -112,10 +114,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1102" y="300" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1622837174680" />
-    <state x="997" y="192" key="FileChooserDialogImpl" timestamp="1622837725330">
+    <state x="997" y="192" key="FileChooserDialogImpl" timestamp="1622925262947">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="997" y="192" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1622837725330" />
+    <state x="997" y="192" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1622925262947" />
     <state x="580" y="352" width="389" height="264" key="MultipleFileMergeDialog" timestamp="1622838082476">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
